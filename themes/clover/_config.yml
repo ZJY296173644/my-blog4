@@ -1,13 +1,15 @@
 # Custom nav
 nav:
-  title: "One day"
+  title: "One Day"
 
 favicon: ""
 
 # Custom background
 background:
-  color: "#eff0f6"
+  color: "#fdf5e6"
   image: ""
+
+
 
 # Social media
 social:
@@ -19,7 +21,7 @@ social:
 
 # Custom footer
 mail: 296173644@qq.com
-copyright: All rights reserved @Clover Tuan
+copyright: Thanks for your coming
 
 # Custom menu. You can specific the path or the card style (only useful for category page).
 # Two kinds of card style: 'project-card', 'article-card',
@@ -31,9 +33,9 @@ menu:
   # Stuffs:
   #   path: /tags/Stuffs
   #   card: article-card
-  Home: /
-  Archive: /archives
-  About: /about
+  ^-^: /
+  Catalogue: /archives
+  Person: /about
 
 # Specific default categories or tags of home page.
 # Post which belongs to `category` or `tag` and don't belongs to `except_category` or `except_tag` will be filtered.
